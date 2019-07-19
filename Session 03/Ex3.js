@@ -6,24 +6,20 @@
 // let newItem = prompt("Enter new item");
 // menu.push(newItem);
 // alert(`Our items: ${menu}`);
-// continue;
 // }
 // else if(answer==="r"){
 // alert(`Our items: ${menu}`);
-// continue;
 // }
 // else if(answer==="u"){
 // let updatePosition = Number(prompt("Update position?"));
 // let updatedItem = prompt("New item");
 // menu[updatePosition-1] = updatedItem;
 // alert(`Our items: ${menu}`);
-// continue; 
 // }
 // else if(answer==="d"){
 // let deletePosition = Number(prompt("Delete position"));
 // menu.splice(deletePosition-1,1);
 // alert(`Our items: ${menu}`); 
-// continue;
 // }
 // else{
 //     break;
